@@ -17,3 +17,5 @@
 15 threads: 789 ms
 16 threads: 782 ms
 ```
+
+<img width="640" height="480" alt="sobel_performance_chart" src="https://github.com/user-attachments/assets/94e0b74f-4af3-42d2-a3cd-9752401c790d" />
