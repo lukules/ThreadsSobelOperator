@@ -17,6 +17,7 @@
 15 threads: 789 ms
 16 threads: 782 ms
 ```
+---
 
 ### Edge Detection Output
 
