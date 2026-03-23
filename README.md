@@ -1,82 +1,20 @@
-**1 Thread**
-```text
-Loading image...
-Converting to grayscale...
-Available threads: 16
-Enter number of working threads: 
-1
-Employing 1 worker threads
-
-Processing completed in: 2775 milliseconds.
-
-Saving image...
-Done! outputImagePath = output.png
+###Benchmark 
 ```
-
-**2 Threads**
-```text
-Loading image...
-Converting to grayscale...
-Available threads: 16
-Enter number of working threads: 
-2
-Employing 2 worker threads
-Processing completed in: 1672 milliseconds.
-Saving image...
-Done! outputImagePath = output.png
+text
+1 thread:  2758 ms
+2 threads: 1568 ms
+3 threads: 1313 ms
+4 threads: 1221 ms
+5 threads: 1182 ms
+6 threads: 1126 ms
+7 threads: 1097 ms
+8 threads: 1034 ms
+9 threads: 1027 ms
+10 threads: 929 ms
+11 threads: 825 ms
+12 threads: 823 ms
+13 threads: 822 ms
+14 threads: 810 ms
+15 threads: 789 ms
+16 threads: 782 ms
 ```
-
-**4 Threads**
-```text
-Loading image...
-Converting to grayscale...
-Available threads: 16
-Enter number of working threads: 4
-Employing 4 worker threads
-
-Processing completed in: 1340 milliseconds.
-
-Saving image...
-Done! outputImagePath = output.png
-```
-
-**8 Threads**
-```text
-Loading image...
-Converting to grayscale...
-Available threads: 16
-Enter number of working threads: 8
-Employing 8 worker threads
-
-Processing completed in: 1121 milliseconds.
-
-Saving image...
-Done! outputImagePath = output.png
-```
-
-**12 Threads**
-```text
-Loading image...
-Converting to grayscale...
-Available threads: 16
-Enter number of working threads: 12
-Employing 12 worker threads
-
-Processing completed in: 1087 milliseconds.
-
-Saving image...
-Done! outputImagePath = output.png
-```
-
-**16 Threads**
-```text 
-Loading image...
-Converting to grayscale...
-Available threads: 16
-Enter number of working threads: 16
-Employing 16 worker threads
-
-Processing completed in: 902 milliseconds.
-
-Saving image...
-Done! outputImagePath = output.png
