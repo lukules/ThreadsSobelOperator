@@ -28,7 +28,7 @@ Here is a visual demonstration of the Sobel operator applied to a sample image. 
 
 ---
 
-### Part 2: Multithreading Performance Benchmark
+### Multithreading Performance Benchmark
 
 To analyze the efficiency of the multithreaded implementation, I conducted an automated benchmark, measuring the execution time for the Sobel convolution phase across **1 to 16 threads**. The processing was performed on a **16-core logical processor** system.
 
