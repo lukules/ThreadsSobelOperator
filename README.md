@@ -1,6 +1,5 @@
-###Benchmark 
+### Benchmark 
 ```
-text
 1 thread:  2758 ms
 2 threads: 1568 ms
 3 threads: 1313 ms
